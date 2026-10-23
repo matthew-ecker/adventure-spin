@@ -133,3 +133,43 @@ button:hover {
         opacity: 1;
     }
 }
+
+.decor-gifs img {
+    position: fixed;
+    width: 110px;
+    height: 110px;
+    object-fit: contain;
+    pointer-events: none;
+    z-index: 0;
+}
+
+main {
+    position: relative;
+    z-index: 1;
+}
+
+.gif-one {
+    top: 8%;
+    left: 8%;
+}
+
+.gif-two {
+    top: 8%;
+    right: 8%;
+}
+
+.gif-three {
+    bottom: 8%;
+    left: 8%;
+}
+
+.gif-four {
+    bottom: 8%;
+    right: 8%;
+}
+
+@media (max-width: 850px) {
+    .decor-gifs {
+        display: none;
+    }
+}
