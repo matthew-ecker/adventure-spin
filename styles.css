@@ -11,7 +11,7 @@ body {
 }
 
 main {
-    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, sans-serif;
+    font-family: "Comic Sans MS";
     padding: 30px;
     text-align: center;
     border-radius: 10px;
