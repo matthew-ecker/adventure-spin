@@ -149,23 +149,23 @@ main {
 }
 
 .gif-one {
-    top: 8%;
-    left: 8%;
+    top: 2%;
+    left: 2%;
 }
 
 .gif-two {
-    top: 8%;
-    right: 8%;
+    top: 2%;
+    right: 2%;
 }
 
 .gif-three {
-    bottom: 8%;
-    left: 8%;
+    bottom: 2%;
+    left: 2%;
 }
 
 .gif-four {
-    bottom: 8%;
-    right: 8%;
+    bottom: 2%;
+    right: 2%;
 }
 
 @media (max-width: 850px) {
